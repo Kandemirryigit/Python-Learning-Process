@@ -1,0 +1,5 @@
+1-) 2025-04-15 Workshop: Creating Python Communities
+2-) 2025-04-15 IndyPy - Developer Tools: Code Faster, Work Smarter
+3-) 2025-04-23 PyCon DE & PyData 2025
+4-) 2025-04-23 PyCon Lithuania 2025
+5-) 2025-04-23 DjangoCon Europe 2025
