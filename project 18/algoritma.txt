@@ -1,0 +1,43 @@
+1.adım: basla
+
+2.adım: blackjack oyununu oynamak istiyor musunuz diye sor
+
+3.adım: cevap hayır ise oyun bitti.son.cevap evet ise 4.adım ile devam et
+
+4.adım: kartlar kumesinden benim icin ve bilgisayar icin rastgele 2 tane kart sec
+
+5.adım: benim icin secilen kartların 2 tanesini benim kartlarım adlı degişkenin icine ekle ve cıktısını goster
+
+6.adım: bilgisayar icin secilen kartların ilkini göster
+ 
+7.adım: bana yeni bir kart secmek istiyor musunuz diye sor
+
+8.adım: eger bilgisayarın elindeki ilk 2 kartın toplamı 17 den kucuk ise bilgisayar icin kartlar kumesinden otomatik olarak 1 tane kart secilsin.kart secildiken sonra 16,17,18. adımı kontrol et. 17 den büyükse kart secilmesin
+
+9.adım: cevap evet ise 10.adım ile devam et hayır ise 14.adım ile devam et
+
+10.adım: kartlar kumesinden rastgele 1 tane kart sec ve benim kartlarım adlı degiskenin icine ekle
+
+11.adım: benim kartlarım adlı değişkenin icindeki 3 kartın toplamı 21'den büyük ise kaybettim oyun bitti.2.adıma dön
+
+12.adım: benim kartlarım adlı değişkenin icindeki 3 kartın toplamı 21 ise kazandım oyun bitti.2.adıma dön
+
+13.adım: benim kartlarım adlı değişkenin icindeki 3 kartın toplamı 21 den kucuk ise 7.adıma dön
+
+14.adım: benim icin kart secme ve o eli pas gec
+
+15.adım: eger bilgisayarın elindeki ilk 2 kartın toplamı 17 den kucuk ise bilgisyar bir kart secsin ve 16.adım ile devam et
+
+16.adım: bilgisayarın elindeki 3 kartın toplamı 21 den buyuk ise kazandım ve oyun bitti.2.adıma dön
+
+17.adım: bilgisayarın elindeki 3 kartın toplamı 21 ise kaybettim ve oyun bitti.2.adıma dön
+
+18.adım: bilgisayarın elindeki kartların toplamı 21 den kucuk ise  7.adıma dön
+
+19.adım:  eger bilgisayarın kartları toplamı 17 den büyükse ve benim kartlarım toplamı 21 den kucuk ise
+
+20.adım: benim kartlarım toplamı > bilgisaarın kartları toplamı ise ben kazandım oyun bitti.2.adıma dön
+
+21.adım: benim kartlarım toplamı = bilgisaarın kartları toplamı ise beraberlik oyun bitti.2.adıma dön
+
+22.adım: benim kartlarım toplamı < bilgisaarın kartları toplamı ise kaybettim oyun bitti.2.adıma dön
