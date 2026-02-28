@@ -1,0 +1,1753 @@
+Index,Word,Meaning
+1,property,"mülk,nesne,eşya"
+2,instance,"örneğin,misal"
+3,orinted,"amaclı,yonlu,tabanlı (object oriented proggramming)"
+*4,attrıbute,"özellik,nitelik"
+5,substance,madde
+*6,profit,"kar,kazanc,getiri"
+7,particular,"özel,özgü"
+8,withstand,"dayanmak,direnmek,karsı koymak"
+9,oppose,"karsı cıkmak,karsı olmak,kafa tutmak"
+10,handling,"basa cıkmak,idare etmek"
+11,exception,istisna
+12,traceback,geri izleme
+13,division,"bölmek,bolme işlemi"
+*14,labour,"işcilik,iş gucu"
+15,literal,tam anlamıyla
+16,detected,saptanmıs
+17,contain,"içermek,kapsamak"
+18,summary,özet
+19,mane,yele
+*20,depict,"tasvir etmek,betimlemek"
+21,represent,temsil etmek
+*22,appropriate,"uygun,tam yerinde,özgü"
+23,footwear,ayaga giyilen seyler
+24,gap,"acıklık,bosluk,aralık"
+25,squeeze,sıkmak
+26,firmly,sıkıca
+27,coincidence,"tesaduf,rastlantı"
+28,unlikely,olası değil
+29,likely,olası
+30,measure,"ölcum,ölcu"
+31,flour,un
+32,powder,pudra
+*33,loose,"gevsetmek,serbest,sıkı degil."
+34,held,hold un gecmıs zamanı
+*35,leak,"sızıntı,sızmak"
+36,crack,"catlamak,catırdı"
+37,surface,yüzey
+*38,layer,"katman,tabaka"
+39,container,konteyner
+40,airtight,hava gecirmez
+*41,goods,"mal,esya"
+*42,insurance,sigorta
+43,unconcıous,bilincsiz
+44,narrator,anlatıcı
+45,mortal,ölümlü
+46,define,tanımlamak
+47,desire,"arzu,istek"
+48,declare,"ilan etmek,acıklamak,bildirmek"
+49,interface,arayuz
+50,interact,etkılesime girmek
+51,endpoint,"uc nokta,son hedef,bitim noktası"
+52,client,müsteri
+53,remote,"uzak,uzakta olan sey,uzaktan kumanda"
+54,display,"görüntüleme,görüntü"
+*55,arrange,"ayarlamak,düzenlemek"
+*56,enable,"olanak vermek,olanak tanımak"
+*57,regardless,"ne olursa olsun,kayıtsız,aldırıssız"
+58,notıceable,"fark edilebilir,dikkate deger"
+59,recognize,tanımak
+*60,diverse,"türlü,cesıt cesıt"
+*61,myriad,cok buyuk sayı
+*62,pursue,"izlemek,takip etmek,pesınde kosmak"
+*63,avenue,"cadde,bulvar"
+*64,broad,geniş
+65,disgraceful,"utanc verici,utandırıcı"
+66,reverse,"basarısızlık,ters,aksi"
+67,convert,donusturmek
+68,merge,"birlestirmek,kaynastırmak"
+69,command,emir
+70,syntax,"sözdizim kuralları,gramer yapısı"
+*71,illustrate,"örneklerle acıklamak,örneklemek"
+72,hint,"ipucu,ima etmek"
+73,variable,degişken
+74,multiply,carpma işlemi
+*75,workaround,"gecici cozum,anlık cozum"
+*76,glitch,"kusur,arıza,hata"
+77,prevent,önlemek
+78,confusing,kafa karıstırmak
+79,smoothly,"kolayca,puruzsuzce"
+*80,duplicate,"yedek,kopya"
+81,concern,"endişelenmek,kaygı"
+82,assign,"atamak,tanımlamak,gorev vermek"
+83,bracket,parantez
+84,quatatıon marks,tırnak işareti
+85,interpreter,"tercuman,yorumlayıcı"
+86,backwards,"arka tarafa,geri,ters olarak"
+87,sequence,"sıra,dizi"
+88,inclusive,dahil
+89,exclusive,dahil degil
+*90,mutable,"kararsız,degişken,degisebilir"
+91,curly braces,süslü parantez
+92,sum,toplamak
+*93,currency,"döviz,para birimi"
+*94,immutable,"sabit,degişmez"
+95,predictable,tahmin edilebilir
+*96,ultimate,"nihai,son,netice"
+*97,utilize,"faydalanmak,yarar sağlamak"
+98,widespread,yaygın
+*99,expand,"genişlemek,"
+*100,expose,"maruz bırakmak,ortaya cıkarmak"
+*101,accurate,"dogru,kesin,yanlıs yapmamaya ozen gostermek"
+102,examine,"muayene,inceleme,irdeleme"
+103,odd number,tek sayı
+104,even number,cift sayı
+*105,constantly,"sürekli,durmaksızın,sık sık"
+106,exclamation marks,ünlem işareti
+*107,row,"sıra,dizi"
+*108,reinforced,"desteklenmiş,kuvvetlendirilmiş"
+*109,leather,deri
+*110,preserve,"muhafaza etmek,korumak"
+*111,decay,"çürük,çürümek"
+112,asteriks,yıldız işareti
+113,execute,"yapmak,emir komutu ile yapmak,idam etmek"
+*114,expression,"anlatım,ifade,söz"
+115,constuctor,yapı
+116,increment,"artıs,artma"
+117,annual,yıllık
+118,decrement,azalıs
+*119,reductıon,"indirme,eksiltme,azaltma"
+*120,iterable,yinelenebilir
+121,produce,"üretim,imal etmek"
+122,existence,"varlık,varolus"
+123,overwhelm,"bogmak,basmak,istila etmek"
+*124,concatenate,"birlestirmek,baglamak"
+125,infinite,sonsuz
+*126,humbling,"asagılama,asagılayıcı,alcakgonullu"
+127,majority,cogunluk
+*128,approve,onaylamak
+*129,comprehension,"anlama,kavrama"
+*130,clause,"fıkra,antlasma,kosul"
+*131,constituion,anayasa
+132,principle,"prensip,ilke"
+*133,justice,"adalet,"
+134,suffer,acı cekmek
+*135,redundant,"lüzümsuz,gereksiz"
+*136,scope,"faaliyet alanı,kapsam alanı"
+137,debug,hata ayıklama
+138,debug console,hata ayıklama konsolu
+139,odd,"sıra dısı,normal olmayan"
+*140,encounter,"karsılasma,rastlama"
+141,delve,"arastırmak,irdelemek,arayıp taramak"
+142,cover,"kaplamak,korumak"
+143,hillsides,yamac
+144,sloping,eğimli
+145,horizontal,pararel
+146,horizon,ufuk
+147,bottom,"alt,dip"
+148,octal,"sekizli,sekiz tabanındakı sayı sıstemı"
+*149,quantity,nicelik
+150,colon,iki nokta
+151,exist,"varlık,var olmak,mevcut olmak"
+*152,proverty,yoksulluk
+*153,union,"birleşme,birlik,kavusma"
+*154,debate,"cekişme,tartısma"
+155,recap,özet
+156,sign-up,kayıt olmak
+157,sign-in,giriş yapmak
+158,mainboard,anakart
+159,processor,işlemci
+160,perform,"rol yapmak,bir seyi yapmak"
+*161,assembler,derleyici
+*162,compiler,cevirici
+*163,interpreter,"yorumlayıcı,tercuman"
+164,fundamental,"temel,kok,esas"
+*165,treat,davranmak
+*166,behave,davranmak
+167,extensions,uzantılar
+168,hyphen,"kısa cizgi,tire"
+169,dash,tire
+170,slash,slash
+*171,markup,"işaretleme,fiyat artısı"
+*172,annotate,notlar eklemek
+*173,relevant,konuyla ilgili
+*174,consist,olusmak
+175,validate,gecerli
+*176,semantic,anlamsal
+*177,determine,"belirlemek,saptamak,kararlastırmak"
+178,influence,"etki,tesir"
+179,visulation,sanal goruntuleme
+*180,width,"genişlik,en"
+181,height,uzunluk
+*182,inspect,"teftiş etmek,denetlemek"
+183,inspector,dedektif
+*184,root,"koken,kok"
+186,case sensitive,buyuk kucuk harf duyarlılıgı
+*187,demand,"talep,ragbet"
+*188,provide,"sağlamak,temin etmek"
+*189,external,"dış,dış kısım"
+*190,violation,"ihlal,saygısızlık etme,ihlal etme"
+191,quote,"alıntı yapmak,tırnak işareti"
+192,tooltip,"arac bilgisi,arac ipucu,bilgi cubugu"
+*193,cursor,imleç
+194,arrow,ok
+195,engage,nişanlanmak
+196,frame,cerceve
+197,border,"kenar,sınır,pervaz"
+*198,wisdom,"akıl,bilgelik,hikmet"
+199,gain,kazanc
+*200,conclusion,"sonuc,karar"
+201,essay,"deneme,makale,yazı"
+*202,species,"canlı türü,tür,"
+*203,endangered,"tehlikede,nesli tukenmekte olan"
+*204,abuse,"suistimal,taciz,kotuye kullanma"
+*205,morally,"ahlaken,ahlakca"
+206,velocity,hız
+207,speed,sürat
+*208,established,"yerlesik,belirlenmiş,kurulu,kabul gormus"
+*209,approximate,"yaklasık,benzemek,yakın"
+210,heal,iyilesmek
+211,wound,yara
+*212,flesh,"beden,et,etli kısım"
+213,noble,"soylu,asil"
+*214,collaboration,işbirliği
+215,contribute,"katkı yapmak,katkıda bulunmak"
+*216,encouragement,"teşvik,teşvik etmek"
+217,fundamentally,"esasen,temelde"
+218,extended,"genişletilmis,geniş,uzun,uzun ve detaylı"
+219,applause,alkıs
+*220,pounce,"saldırı,saldırmak,aniden atılma,hamle yapma"
+*221,fabuolus,"harika,cok guzel"
+*222,accuracy,"dogruluk,hassasiyet"
+*223,belief,"inanma,inanc"
+*224,attiude,"tutum,tavır,davranıs"
+*225,reinforce,"takviye etmek,desteklemek"
+226,alongside,"yanına,yan yana,birlikte"
+227,workflow,iş akısı
+228,rapid,"hızlı,ani"
+*229,accusation,"itham,suclama"
+230,although,ragmen
+231,wrap,"sarmak,örtü"
+*232,demonstrate,"göstermek,kanıtlamak,ispatlamak"
+*233,aspect,"taraf,yön"
+*234,indicate,"işaret etmek,belirtmek,göstermek"
+*235,render,"hale getirmek,kılmak"
+236,underscore,alt tre
+237,wizard,sihirbaz
+238,conversion,dönüşüm
+239,associate,"arkadas,ortak,arkadaslık etmek"
+*240,evaluate,"degerlendırmek,ölçmek"
+241,substraction,cıkarma işlemi
+242,addition,"toplama işlemi,ekleme"
+243,multiplication,carpma işlemi
+244,extend,"uzatma,genişletme"
+245,beforehand,"önceden,önce,pesinen"
+246,chain,"zincir,kolye"
+247,convivial,"keyifli,şen"
+*248,versatile,"cok yönlü,cok amaclı"
+249,executable,",yapılabılır,uygulanabilir,calıstırılabılır"
+250,contribute,"katkı yapmak,katkıda buunmak"
+251,compromise,
+*252,occasional,"ara sıra,tesadüfü,rastgele"
+*253,enterprise,"girişim,cesaert,işetme,kurulus"
+*254,commercial,"ticari,reklam"
+255,semi colon,noktalı virgul
+256,motherboard,anakart
+*257,regulate,"düzenlemek,düzene sokmak"
+*258,strictly,"kessinlikle,tam anlamıyla"
+*259,enforce,"uygulamak,zorlamak"
+*260,urban,"kentsel,sehir"
+261,circiut board,devre kartı
+262,seldom,"nadiren,kırk yılda bir"
+*263,abbreviate,"kısaltmak,sadelestirmek,kırpmak"
+264,logic,mantık
+265,encourage,"cesaretlendirmek,yüreklenmdirmek"
+*266,recreation,"boş zaman etkinliği,eglence,hosca vakit gecirme"
+267,inability,yetersizlik
+*268,lack,"yoksunluk,yetersizlik"
+269,ambition,"hırs,azim"
+*270,wealth,"zenginlik,servet"
+*271,accumulate,"biriktirmek,toplamak"
+*272,tend,eğiliminde olmak
+*273,proportion,"orantı,oran"
+*274,intention,"maksat,niyet"
+*275,tension,tansiyon
+276,meme,"esprili görsel,viral"
+277,introvorted,içe dönük
+278,extroverted,dışa dönük
+279,fraud,"sahtekarlık,dolandırıcılık"
+*280,eliminate,"elemek,ortadan kaldırmak,yok etmek"
+*281,humour,"mizah,espri"
+282,uncover,"ortaya cıkarmak,ortusunu kaldırmak"
+283,rejection,"reddetme,ret"
+284,fair enough,yeterince makul
+285,guarantee,garanti etmek
+*286,apparently,görünüşe bakılırsa
+287,obey,"uymak,itaat etmek"
+288,motion,hareket
+289,register,kayıt olmak
+*290,syllabus,"müfredat,ders programı"
+*291,compromise,"anlaşma,uzlasma"
+*292,craft,"zanaat,el sanatı"
+*293,rot,"çürümek,çürük"
+294,administration,"yönetim,idare"
+295,agency,"acente,ajans"
+*296,attorney,avukat
+297,budget,bütce
+298,candidate,aday
+*299,commit,"suc işlemek,söz vermek"
+*300,conduct,yönetmek
+*301,consumer,"tüketici,müşteri"
+302,debate,"tartısma,müzakere"
+303,executive,"yönetici,idari,yürütme,yürütücü"
+304,former,"eski,daha önceki"
+*305,instution,"enstitü,kurum,kuruluş"
+*306,intend,"niyet etmek,istemek"
+307,major,"asıl,büyük,baslıca"
+*308,obtain,"edinmek,elde etmek,almak"
+*309,reduce,"kısmak,azaltmak,indirmek,düşürmek"
+310,remain,"geriye kalmak,geriye kalan sey"
+311,statement,"ifade,söz,beyan"
+*312,punctual,dakik
+*313,frustrate,"hayal kırıklıgına ugratmak,bosa cıkarmak"
+314,checkout,"kasa,cıkıs,kontrol"
+316,aspect,"taraf,yön,açı"
+317,impress,"hayran bırakmak,etkilemek"
+318,recursion,
+*319,even though,"rağmen,bile"
+*320,inevitability,"kacınılmazlık,caresizlik"
+*321,pledge,"söz,tahhaüt"
+322,handy,"kullanıslı,becerikli,yatkın"
+*323,incorporated,anonim şirket
+324,sidebar,kenar cubugu
+325,chock-a-block,"hıncahınc,tıklım tıklım"
+*326,imaginative,"hayalperest,yaratıcı"
+327,integrated,"entegre etmek,bütünleştirmek"
+*328,template,"şablon,model"
+*329,attune,"uyum sağlamak,ayak uydurmak"
+330,jog,"hafif tempolu kosu,hafif dürtme"
+331,concatenate,"birleştirmek,bağlamak,toplamak"
+332,emphasis,"vurgu,önem"
+333,wildly,cılgınca
+*334,prompt,"talimat,harekete gecirmek,komut"
+335,abstract,"özet,soyut"
+*336,wise,"bilge,bilgili"
+337,consist,"oluşmak,meydana gelmek"
+*338,capture,"esir almak,ele gecirmek"
+339,conversion,dönüşüm
+340,extend,"genişletmek,uzatmak"
+*341,brief,"kısa,özet"
+342,confuse,kafa karısıklıgı
+*343,enclose,"etrafını evirmek,etrafını kaplamak"
+*344,whereas,"oysa,halbuki"
+*345,primitive,ilkel
+*346,wrap,sarmak
+*347,implicit,"üstü kapalı,görünmeyen"
+*348,typecast,kalıplasmıs
+349,exponent,"üslü sayı,üs"
+*350,priority,öncelik
+351,evaluate,"değerlendirmek,ölçmek,tartmak"
+352,involve,"kapsamak,içermek"
+353,square,"meydan,kare"
+354,term,
+355,chop,"dogramak,kesmek"
+356,accumulate,"biriktirmek,toplamak"
+*357,slightly,"biraz,çok az,hafifce"
+*358,precision,"kesinlik,hassasiyet"
+359,crossroad,"kavsak,"
+*360,overflow,"taşma,dolup taşmak"
+*361,beyond,"ötede,ötesinde"
+362,annoy,"rahatsız etmek,sinirlendirmek,kızdırmak"
+*363,drain,"boşaltma,oluk,kanalizasyon"
+364,remainder,"geriye kalan,kalan"
+365,nested,"iç içe(computer),nest(yuva)"
+*366,vacancy,"boş yer,boşluk"
+367,apply,"uygulamak,basvurmak,müracaat etmek"
+*368,summit,"zirve,tepe"
+*369,ignorant,"cahil,bilgisiz"
+370,engagement,"nişan,söz,baglilik"
+*371,implement,"yerine getirmek,uygulamak,gerceklestirmek"
+*372,eligible,hak sahibi
+*373,companion,"refaketçi,rehber,arkadas,yoldas"
+374,obvious,"ortada,bariz,besbelli"
+375,pepperoni,sucuk dilimi
+*376,tackle,"ele almak,mücadele etmek,ugrasmak"
+377,afterwards,"sonradan,daha sonra,sonraları"
+378,flip,atmak
+*379,keen,"hevesli,istekli"
+*380,trout,alabalık
+*381,beast,"hayvan,canavar,yaratık"
+382,bond,"bağ,senet,kefalet"
+*383,consistently,"sürekli olarak,devamlı olarak"
+*384,elaborate,"özenle hazırlanmıs,ayrıntılı"
+385,trigger,tetik
+*386,sanity,"akıl sağlıgı,akıllılık"
+*387,unaligned,"hizaya sokulmamış,sıralanmamıs"
+*388,wrangle,"çekişme,tartısma"
+*389,horrendously,"aşırı bir bicimde,korkunc bir bicimde"
+390,refine,"düzeltmek,geliştirmek,saflastırmak(refine etmek)"
+*391,swallow,"kırlangıc,yutmak"
+*392,initialize,başlatmak
+*393,seed,"tohum,çekirdek"
+394,demonstrate,"göstermek,kanıtlamak,acıklama yapmak"
+*395,internal,"dahili,iç,içsel"
+396,state,"hal,durum,devlet"
+*397,alias,takma isim
+*398,sample,"örnek,numune"
+*399,core,"öz,ana,merkez"
+*400,immensely,"son derece,cok fazla"
+*401,peculiarity,"acayiplik,özellik,alışılmamıslık"
+402,tend,eğilimli olmak
+*403,inefficient,"yetersiz,verimsiz"
+404,implement,"yerine getirmek,uygulamak"
+405,mighty,"büyük,güçlü,fazlasıyla"
+406,district,"semt,ilçe"
+*407,frequently,"sık sık,cogunlukla"
+*408,proxy,"vekil,gösterge,yetkili"
+*409,untangle,"halletmek,çözmek"
+410,passively,pasif
+411,pear,armut
+*412,replicate,"tekrarlamak,cogaltmak,kopyasını yapmak"
+*413,revision,gözden gecirmek
+414,association,"birlik,birliktelik"
+415,conjuction,baglac
+*416,internalize,"içsellestirmek,özümsemek"
+*417,perseverance,"azim,dirayetlilik"
+418,lobster,ıstakoz
+419,bunch,salkım
+*420,subsequent,daha sonraki
+421,margin,"marj,kenar boslugu,kenar,sınır"
+422,stuck,"mahsur,çıkmazda"
+*423,invisible,"görünmez,fark edilmez"
+*424,equivalent,"eş deger,karşılık,eşit"
+425,indentation,"girinti,çentik,"
+426,inefficient,"yetersiz,verimsiz"
+427,unstable,"istikrarsız,dengesiz,kararsız"
+428,bypass,"atlamak,ugramadan  gecmek"
+*429,hurdle,"engel,sorun"
+430,maze,labirent
+431,eventually,"eninde sonunda,sonunda"
+432,resort,"tatil yeri,çare"
+*433,inaudible,duyulmaz
+434,front,"cephe,ön cephe"
+435,next to me,yanımda
+436,remain,"geriye kalan,oldugu gibi kalmak,kalkmamak"
+*437,grip,"kavramak,pence,tutus"
+438,sensation,"his,heyecan,duygu"
+439,unicode,evrensel kod
+*440,inbuilt,"içsel,monte edilmiş"
+*441,instantly,"hemen,anında"
+*442,overlap,"örtüşmek,cakısmak"
+*443,rectangle,dikdortgen
+444,enclose,"etrafını cevirmek,kapatmak"
+445,beneficial,"yararlı,faydalı"
+*446,throughout,"bastan basa,her tarafına"
+447,customize,"kişisellestirmek,özellestirmek"
+*448,arbitrary,keyfi
+*449,convention,gelenek
+*450,outro,"final,kapanıs sahnesi"
+*451,precious,"değerli,kıymetli"
+*452,embody,"somutlastırmak,içermek,düzenlemek"
+*453,strive,"uğrasmak,cabalamak,gayret etmek"
+454,commercial,"ticari,reklam"
+455,prompt,"talimat,harekete gecirmek"
+*456,distractions,dikkat dagıtıcılar
+*457,exhilarating,"canlandırıcı,neselendırıcı"
+*458,intent,"maksat,niyet"
+459,shagging,seks
+460,nob,asil
+*461,seduction,"bastan cıkarma,ayartı"
+*462,delicately,"dikkatle,incelikle"
+463,extract,
+464,doggy,kopek
+*465,confession,itiraf
+*466,despise,"hor gormek,kucumsemek"
+467,ought to,-meli/-malı
+*468,bully,"zorba,kabadayı"
+469,rubbish,"zırva,çöp,sacmalık"
+470,decent,"iyi,düzgün"
+*471,abandon,"terk etmek,bırakmak,vazgecmek"
+472,silly,"sacma sapan,aptalca"
+473,kink,
+474,soundproof,ses gecirmez
+475,innocent,masum
+476,chase,takip etmek
+478,engage,
+*479,insist,ısrar etmek
+*480,underestimated,az deger bicilmiş
+*481,kidnap,birini kacırmak
+*482,reputation,"ün,şöhret,itibar"
+483,thriller,gerilim
+*484,fugitive,"firari,kacak"
+485,onboard,
+486,leak,sızıntı
+487,lean,yaslanmak
+488,laundry,"camasır,camasırhane"
+489,disloyal,sadık değil
+490,measures,miktar
+491,port,liman
+492,cab,taksi
+493,sobering,ayılmak
+494,dedicate,adamak
+495,dedicated to,"bir sey icin adamak,bir seye adamak"
+496,settle down,sakinlesmek
+497,nipples,------
+498,whose,kimin
+*499,rid,kurtarmak
+500,spank,saplak atmak
+501,awkard,korkak
+502,knot,düğüm
+503,nudity,cıplaklık
+*504,disaster,"facia,felaket"
+505,exhausting,"yorgunluktan ölmek üzere,cok yorucu"
+*506,redemption,"günahlardan arınma,kurtarma"
+*507,occupate,"işgal etmek,mesgul etmek"
+*508,fever,ates
+*509,queried,"sorgulamak,sorgu"
+*510,indefinitely,"süresiz,sonsuza kadar"
+511,dizzy,bas donmesi
+*512,doll,oyuncak bebek
+*513,instigator,"kıskırtıcı,tahriş edici"
+514,funeral,cenaze
+515,instincts,
+516,snob,züppe
+*517,optimistic,iyimser
+518,queue,sıra
+519,nobsize,"bedensiz,bedeni yok"
+520,enroll,kayıt olmak
+521,outline,"taslak,ana hatlarıyla"
+*522,imitation,"imitasyon,taklit,taklit etme"
+523,content,içerik
+*524,grasp,"kavramak,pence,kavrayıs"
+525,flow,akıs
+526,overall,"tam,tüm"
+527,subject,özne
+*528,sink,batmak
+*529,proper,"uygun,dogru kullanım"
+530,occur,"olus,meydana gelmek"
+531,occurrence,"gerceklesme,olma"
+532,nap,"sekerleme,kestirme"
+*533,irritation,"tahris,rahatasızlık"
+*534,nevertheless,yine de
+*535,hence,dolayısıyla
+*536,therefore,"bu yüzden,bu nedenle"
+*537,furthermore,"üstelik,ayrıca"
+538,beside,yanında
+539,moreover,"dahası,daha fazlası"
+540,likewise,aynı sekılde
+541,additionally,ek olarak
+542,afterwards,"sonradan,daha sonra"
+543,coclusion,"sonuc,karar"
+*544,consequently,"sonuc olarak,dolayısıyla"
+*545,commitment,"bağlılık,taahhüt"
+546,via,yoluyla
+547,annocument,duyuru
+*547,behalf,adına
+548,predator,yırtıcı hayvan
+549,competition,karsılasma
+550,engage,
+551,wizard,sihirbaz
+552,slut,sürtük
+*553,poetry,şiir
+554,chime,çan sesi
+555,script,"senaryo,yazı"
+556,gambling,kumar
+*557,conventional,geleneksel
+*558,muse,ilham perisi
+*559,accurately,"tam olarak,dogru olarak"
+560,smoothly,"kolayca,puruzsuzce"
+*561,abundantly,"bol miktarda,bol bol"
+562,efforthlessly,kolayca
+*563,intentionally,"kasten,kasıtlı olarak"
+564,selectively,secerek
+*565,inconsiderately,düşüncesizce
+*566,unevenly,düzensiz bir sekilde
+*567,conveniently,"uygun olarak,rahatlıkla"
+568,ashamed,utanmıs
+*569,destiny,"kader,alın yazısı"
+570,ominous,uğursuz
+*571,pensive,"dalgın,düşünceli"
+572,aid,"yardım,yardım etmek"
+573,first aid kit,ilk yardım kiti
+574,pie,turta
+575,upbeat,"neseli,iyimser"
+*576,obligated,"yükümlü,mükellef"
+*577,convince,"ikna etmek,inandırmak"
+*578,expiration,"sona ermek,süre sonu"
+*579,relief,"rahatlama,iç rahatlaması"
+580,frequently,sık sık
+581,occasioanlly,"ara sıra,nadiren"
+*582,indulge,şımartmak
+583,wary,"temkinli,tedbirli"
+584,weary,"yorgun,yorucu"
+585,vivid,canlı
+586,luggage,bagaj
+*587,immigration,"göç,göç etme"
+588,humidity,nem
+589,gather,toplamak
+590,laughter,"kahkaha,gülmek"
+591,encouragement,"teşvik etmek,cesaretlendirmek"
+592,contribute,katkıda bulunmak
+593,shift,"mesai,vardiya,nöbet"
+594,viral,yaygın
+595,content,içerik
+596,collab,işbirliği
+597,sense,"his,duyu,algı"
+598,humuour,mizah
+599,indicate,"işaret etmek,belirtmek,göstermek"
+600,windowsill,"pervaz,pencere kenarı"
+*601,attentive,"özenli,dikkatli,nazik"
+*602,proximity,"yakınlık,mesafe"
+*603,reveal,"meydana cıkarmak,ortaya cıkarmak"
+604,vanish,"yok olmak,oratdan kaybolmak"
+*605,measle,kızamık
+606,mockinbird,alaycı kus
+*607,assignment,"görevlendirme,görev"
+*608,definition,"tanım,belirleme"
+*609,aside,"ilave,bir kenara"
+*610,loan,"ödünc para,kredi,borc"
+*611,bare,acıga vurmak
+612,bend,"viraj,eğmek,eğilmek"
+613,bid,teklif etmek
+*614,broadcast,"yayın,duyurmak"
+615,led,
+*616,eager,"istekli,sabırsız"
+617,essay,"makale,deneme,yazı"
+618,pollution,kirlilik
+619,burglar,hırsız
+*620,vowel,sesli harf
+*621,recruitment,"işe alım,askere alma"
+622,initiative,
+623,purpose,amac
+624,douchbag,aptal
+*625,severe,"sert,şiddetli"
+*626,unrest,"huzursuzluk,kargasa"
+627,consequence,"netice,sonuc"
+628,cache,önbellek
+629,firewall,güvenlik duvarı
+630,abort,
+631,abbreviate,"kısaltmak,kırpmak"
+632,adware,reklam yazılımı
+633,administrator,"yönetici,idareci"
+634,attribute,katkıda bulunmak
+635,compress,sıkıştırmak
+636,malware,kötü amaclı yazılım
+637,patc,yama
+638,redirect,yönlendirmek
+639,spyware,casus yazılım
+640,utility,"fayda,yarar"
+641,sob,hıckırmak
+642,leash,"et,deri"
+643,muffin,kek
+*644,keepsake,hatıra
+645,griev,
+*647,snippets,bölük börçük bilgiler
+648,placeholder,yer tutucu
+*649,hangman,"cellat,adam asmaca"
+650,submit,sunmak
+*651,generate,"meydana getirmek,olusturmak"
+*652,clutter,"yığın,darmadağın etmek,karmakarısık etmek,dagınıklık,karmasıklık"
+*653,jug,sürahi
+654,cough,öksürmek
+655,throughly,
+*656,pond,"gölet,havuz"
+*657,grant,"hibe,bagıslamak,burs"
+658,maternity,"annelik,doğum"
+659,spicy,"baharatlı,acık sacık"
+670,drowning,boğulma
+*671,rumour,söylenti
+672,plain,"ova,yalın,düz,sade,basit"
+673,blouse,bluz
+*674,retain,"sürdürmek,korumak,aklında tutmak,muhafaza etmek"
+*675,venture,"girişim,tesebbus"
+676,pill,"hap,ilac"
+*677,sore,yara
+*678,sustained,"uzun süreli,sürekli"
+*679,disrepair,bakımsızlık
+680,satisfactory,"tatmin edici,ikna edici"
+*681,basis,"temel,dayanak,esas"
+682,attempt,"deneme,girişim"
+*683,phase,"aşama,evre"
+*684,incorporate,"içermek,birlestirmek,dahil etmek"
+*685,banner,"pankart,afiş"
+686,deduct,düşmek
+687,doom,"kıyamet,kader,bela"
+688,frustrate,hayal kırıklıgına ugratmak
+689,mush,
+*690,repetition,"tekrar,tekrarlama"
+692,tidy,"düzenli,derli toplu"
+*693,wire,"kablo,tel"
+694,threads,iş parcacıkları
+695,absorb,"sönümlemek,içine almak"
+696,readily,"kolaylıkla,seve seve"
+697,patience,"sabır,tahammul"
+698,adversity,"sıkıntı,zorluk"
+699,imagination,"hayal gücü,hayal"
+700,dogged,"azimli,inatcı"
+*701,triumph,"zafer,basarı"
+*702,shell,kabuk
+703,claw,"pence,kıskac"
+*704,jerk,"sarsmak,ahmak"
+*705,fasten,"baglamak,iliklemek,takmak"
+*706,resignation,istifa
+*707,vertical,"dik,dikey"
+708,heel,"topuk,taban"
+*709,mud,camur
+710,committee,"kurul,komisyon,komite"
+*711,whatsoever,herhangi bir
+712,guidance,"rehber,yönlendirme,yol gösterme"
+*713,underneath,"altında,alt,özünde"
+714,phase,"asama,evre"
+*715,doom,"kıyamet,kader,bela"
+716,frustrate,hayal kırıklıgına ugratmak
+717,clutch,debriyaj
+718,decrypt,şifeyi çözmek
+719,encrypt,şifre olusturmak
+720,encode,"şifrelemek,sifre olusturmak"
+721,decode,"sifreyi cozmek,desifre etmek"
+*722,recipient,"alıcı,alan"
+723,encounter,"karsılasma,rastlantı"
+724,judgement,yargı
+*725,predetermined,önceden belirlenmis
+*726,ensure,"sağlamak,emin olmak,temin etmek"
+727,doable,yapılabilir
+*728,repetitive,"tekrarlayıp duran,tekrarlı"
+*729,auction,"müzayede,acık arttırma"
+*730,wipe,silmek
+731,criteria,kriter
+*732,outstanding,"üstün,seckin"
+*733,exceed,"sınırı asmak,asmak"
+734,flexibility,esneklik
+735,entry,"giriş,girdi"
+736,accountability,sorumluluk
+737,accountable,sorumlu
+738,flex,esnek
+739,sync,"eş zamanlamak,senkronize etmek"
+*741,thorn,diken
+*742,unpretentious,gösterişsiz
+743,orphan,"öksüz,yetim,kimsesiz"
+744,underneath,"altında,alt"
+*745,armor,zırh
+746,bittersweet,acı tatlı
+*747,subpar,"ortalamanın altı,vasatın altı"
+*748,par,vasat
+*749,haunt,ugrak yer
+*750,deceptively,aldatıcı bir bicimde
+*751,likeable,"sempatik,sevimli"
+752,non-fiction,kurgusal olmayan
+753,fiction,kurgu
+754,destiny,"kader,alın yazısı"
+*755,whip,"kırbac,kırbaclamak"
+*756,loo,tuvalet
+*757,observation,"gözlem,gözetim,tespit"
+758,accusation,"itham,suclama"
+759,vanish,"kaybolmak,ortadan kaybolmak"
+*760,scoff,"dalga gecmek,alay"
+*761,stab,"saplamak,bıcaklamak"
+*762,relapse,nüksetmek
+*763,nightingale,bülbül
+764,sneak,sinsi
+*765,pry,"burnunu sokmak,gözetleme"
+*766,sane,"aklı basında,mantıklı"
+767,convince,"ikna etmek,inandırmak"
+768,attaboy,afferin
+769,spectaculary,ilgi cekici bir sekilde
+770,shag,sevismek
+*771,custody,gözaltı
+*772,taunt,"alay etmek,dalga gecmek"
+773,investment,"yatırım,para yatırma"
+*774,greedy,acgozlu
+*775,poke,dürtmek
+*776,illusory,"hayali,aldatıcı,yanıltıcı"
+777,blowjob,----
+778,handjob,----
+*779,ambush,"pusu,tuzak"
+*780,notion,"düşünce,kavram,görüş"
+781,despise,hor görmek
+782,cycle,döngü
+*783,souvenir,"hediyelik esya,yadigar,hatıra"
+783,bycycle,bisiklet
+784,motorcycle,motosiklet
+*785,submarine,denizaltı
+786,tie,"bağ,ilişki,bağlantı"
+787,provide,"sağlamak,temin etmek"
+*788,sophistication,karmaşıklık
+*789,obstacle,engel
+*790,deficient,"eksik,eksik kalan"
+*791,immersion,dahil olmak
+*792,underrestimate,hafife almak
+793,intimidated,"tehtid edilmiş,tahrik etmek"
+*794,attitude,"davranıs bicimi,yaklasım"
+795,bold,"cesur,cesaretli"
+796,immerse,"suya batırmak,sokmak,suya daldırmak"
+797,internalize,"içsellestirmek,özümsemek"
+798,privilege,"ayrıcalık,dokunulmazlık"
+*799,neglect,"es gecmek,boslamak,ihmal etmek"
+800,constructive,yapıcı
+*801,fortunate,"şanslı,kısmetli"
+802,expertise,uzman
+*803,coherence,"alakalılık durumu,tutarlılık"
+804,examiner,"incelemeci,sınayan kimse,muayene eden kimse"
+*805,intonation,tonlama
+*806,implicitly,dolaylı olarak
+*807,explicitly,dogrudan
+808,lower-middle,orta
+809,hide and seek,saklambac
+810,firetruck,itfaiye aracı
+811,stick,cubuk
+812,stone,tas
+*813,stretcher,sedye
+*814,sight,gorus alanı
+*815,glove,eldiven
+816,pine,çam
+*817,clench,"kavrama,yumma,sıkma,kenetlemek"
+*818,clenched,percinli
+*819,veil,"peçe,örtü"
+*820,torn,yırtık
+*821,demise,"vefat,sona ermek"
+*822,charade,"maskaralık,zırva"
+823,hangman,cellat
+*824,gallows,"daragacı,idam sehpası"
+825,flame,alev
+826,prescription,reçete
+*827,lucid,aklı basında
+*828,ache,"acı,sızı"
+*829,tangled,"karısık,karmakarısık"
+*830,drastic,"şiddetli,sert"
+*831,shawty,hoş kadın
+*832,sip,yudum
+833,flow,akış
+834,dough,hamur
+*835,crib,"beşik,bebek karyolası"
+*836,jewel,mücevvher
+*837,daffodil,nergis
+*838,trapped,tuzaga dusmus
+*839,haul,vurgun
+*840,creep,"sürünmek,sokulmak,ucube,yaltakcı"
+841,grip,"tutmak,kavramak"
+*842,fade,rengi solmak
+*843,dignity,"itibar,onur,seref"
+*844,grace,"nezaket,zarafet,lütuf"
+845,shook,"sarstı,sarsılmak"
+*846,undermining,"altını oyma,baltalama"
+847,homie,"kanka,hemseri,memleketli"
+848,eerie,ürkütücü
+*849,squawking,viyak viyak
+850,fart,"osuruk,osurmak"
+*851,hangover,"kalıntı,içki mahmurlugu,akşamdan kalma"
+852,bat,"yarasa,sopa"
+*853,blackout,"baygınlık,kendinden gecme"
+854,refund,yeniden ödeme
+*855,proof,kanıt
+*856,cease,"son vermek,durmak,durdurmak"
+*857,curve,"eğri,kıvrım"
+858,distant,uzakta
+*859,plead,"savunma yapmak,rica etmek"
+*860,worship,"ibadet,tapmak"
+861,satellite,uydu
+*862,flood,"su baskını,tufan,sel"
+863,tub,küvet
+*864,opponent,"rakip,muhalif"
+865,craft,"zanaat,el sanatı"
+866,fascinating,"büyüleyici,etkileyici"
+*867,perseverance,"azim,dirayetlilik"
+*868,potion,iksir
+869,prime number,asal sayı
+870,belt,kemer
+871,entire,"bütün,tüm,tam"
+*872,repositories,"zengin kaynak,depo"
+873,hosting,"ev sahipliği,konakcılık"
+*874,proficient,"usta,uzman,becerikli,yeterli"
+*875,implemented,"yerine getirilmiş,uygulanmıs"
+876,Customization,"uyarlama,kişisellestirme"
+877,Compound,
+878,distribute,"dagıtmak,yaymak,paylastırmak"
+*879,punk,"serseri,zibidi"
+880,unheard,duyulmamıs
+*881,chalk,tebesir
+*882,gleam,parıltı
+*883,arouse,"harekete gecmek,uyandırmak,tahrik etmek"
+884,slave,köle
+*885,aesthetic,estetik
+*886,clown,"soytarı,palyaco,saklaban"
+*887,amuse,"eğlendirmek,neselendirmek"
+888,preacher,
+*890,puppet,kukla
+*891,indoctrinate,"aşılamak,beynini yıkamak"
+*892,temptations,"seytana uymak,ayartıcı,bastan cıkartıcı"
+893,smack,
+894,counter,sayac
+*895,glance,"bakıs,göz atmak,göz gezdirmek"
+*896,glitter,"parıltı,parıldamak,ışıltı"
+*897,stairway,merdiven
+*898,misgiven,süpheli
+899,tune,"melodi,ezgi"
+*900,dawn,"safak,safak vakti"
+901,howling,"inleme,uluyan"
+*902,enhance,"arttırmak,geliştirmek,iyileştirmek"
+903,ahead,"ilerisi,ilerde,önde"
+*904,assumption,varsayım
+*905,dice,zar
+*906,nonetheless,"yine de,her seye ragmen,bununla birlikte"
+*907,inevitably,kacınılmaz bir sekılde
+*908,durable,dayanıklı
+909,pathway,patika
+*910,mutate,"mutasyona ugramak,degişmek"
+*911,gutter,"oluk,su yolu,catı olugu"
+*912,spot,"leke,benek,nokta"
+913,shortcuts,kısayol
+914,nuances,"nüans,ince fark,ayrıntı"
+*915,intimidating,göz korkutucu
+*916,emerge,ortaya cıkmak
+917,commuting,işe gidip gelme
+*918,allocated,"tahsis edilmiş,ayrılmıs"
+*919,saturated,"doymus,doygun"
+920,tub,küvet
+*921,inertia,"uyusukluk,eylemsizlik"
+*922,invariably,"hep,her zaman,aynı sekılde,devamlı"
+*923,charm,"cazibe,albeni"
+*924,preface,önsöz
+*925,component,parca
+*926,urge,"dürtü,istek"
+927,stretch,"uzatmak,gerinmek,esneme"
+928,ease,"kolaylık,rahatlık"
+929,hammer,cekic
+930,spanner,"somun anahtarı,ingiliz anahtarı"
+*931,carpenter,marangoz
+*932,accomplish,"basarıyla tamamlamak,bitirmek,yerine getirmek"
+*933,clue,"ipucu,fikir"
+*934,steep,"dik,sarp"
+935,shallow,"sıg,yuzeysel,"
+*936,purportedly,söylendiğine göre
+*937,hone,bilemek
+938,wisely,"akıllıca,bilgece"
+*939,reap,"toplamak,hasat etmek,biçmek"
+*940,controversial,"ihtilaflı,cekişmeli,tartısmalı"
+*941,internal,"dahili,ic"
+*942,Foosball,langırt
+*943,apparent,"aşikar,ortada"
+*944,unintuitive,sezgisel olmayan
+*945,apprentice,cırak
+946,memorisation,"ezberleme,anımsama"
+947,chunk,"yıgın,kalın parca,önemli miktar"
+948,tease,"kızdrımak,alay etmek"
+*949,interplay,karsılıklı etkileşim
+950,jersey,üniforma
+951,rape,taciz
+*952,prophet,peygamber
+953,courage,cesaret
+954,opposition,muhalefet
+955,stretcher,sedye
+956,toiling,ugrasıp didinme
+*957,sketch,taslak
+958,sufficient,yeterli
+959,insufficient,yetersiz
+*960,transaction,"işlem,ticari faaliyet"
+*961,deduct,"düşmek,eksiltmek"
+962,storehouse,"depo,ambar"
+963,warehouse,"depo,ambar"
+964,clarify,"acıklamak,aydınlıga kavusturmak"
+*965,hesitation,"tereddut,duraksama"
+*966,eternity,sonsuzluk
+967,fetch,"alıp getirmek,gidip almak,almak,getirmek"
+*968,hover over,kalmak
+*969,monetary,parasal
+970,beverage,içecek
+*971,anguish,"ıstırap,acı"
+*972,nook,kuytu
+*973,procrastination,erteleme
+*974,swing,"sallamak,salıncak"
+*975,squeal,cıyaklama
+*976,thud,gümbürtü
+*977,boundaries,"sınırlar,bireyler arasındakı sınırlar,ülke sınırları"
+*980,puke,kusmak
+*981,stammer,kekelemek
+982,identity,kimlik
+*983,compromised,tehlikeli
+984,admissions,
+*985,madness,"çılgınlık,delilik"
+*986,fate,kader
+988,procedursal,
+*989,component,"unsur,bileşen"
+991,receptionist,resepsiyonist
+*992,vein,damar
+*993,premise,"öncül,önerme,ön kabul"
+*994,daunting,"göz korkutucu,ürkütücü"
+*995,resist,"direnmek,dayanmak"
+*996,arduous,"mesaketli,cetin,zorlu"
+*997,rip,"yırtık,koparmak"
+999,trap,"kapan,tuzak"
+1000,surrender,"teslim olmak,vazgecmek"
+2,controversy,"tartısma,anlasmazlık"
+*3,rejoice,sevinmek
+*4,commencment,"diploma töreni,baslangıc"
+5,enterprise,"girişim,işletme,cesaret,şirket,kurulus"
+*6,regarded,addedilen
+*7,foreboding,"önsezi,içine dogma"
+*8,assure,"güvence altına almak,garanti etmek"
+*9,welfare,"refah,yardım,iyilik"
+*10,undertaking,"taahhüt,söz"
+*11,braces,"askı,diş teli"
+*12,delight,"zevk,keyif"
+13,region,bölge
+*14,advance,"ilerlemek,terfi etmek"
+*15,foretaste,"önceden tatma,önceden anlama"
+*16,fervent,"hararetli,ateşli,gayretli"
+17,vivid,"canlı,parlak"
+*18,vain,"faydasız,nafile"
+*19,persuade,ikna etmek
+*20,desolation,"perişanlık,ıssızlık"
+21,imagination,hayal gücü
+*22,perpetual,sürekli
+*23,splendour,ihtişam
+*24,preceding,önceki
+*25,banish,"sürgün etmek,kovmak"
+*26,surpass,"aşmak,gecmek,geride bırakmak"
+27,wonder,"merak etmek,mucize,harika"
+*28,hitherto,"bugune kadar,şimdiye kadar"
+29,habitable,yasanılabilir
+30,phenomena,fenomenl
+31,undoubtedly,"kessinlikle,hiç süphesiz"
+*32,eternal,"ebedi,baki,ezeli"
+*33,wondrous,harikulade
+34,needle,iğne
+*35,celestial,"gök,göksel,gökyüzü ile ilgili"
+*36,voyage,"sefer,yolculuk,seyahet"
+37,eccentricities,tuhaflık
+*38,consistent,"istikrarlı,tutarlı,sürekli"
+*39,satiate,"gına getirmek,tam doyum noktasına ulastırmak"
+*40,ardent,"atesli,düşkün,gayretli"
+41,curiosity,merak
+*42,imprinted,damgalanmıs
+*43,enticements,"cekicilik,cazibe"
+*44,induce,"ikna etmek,neden olmak"
+*45,commence,"baslatmak,dava acmak"
+*46,laborious,zahmetli
+*47,conquer,"fethetmek,yenmek"
+*48,expedition,"sefer,keşif,keşif gezisi,"
+*49,inestimable,paha bicilmez
+*50,confer,"vermek,bahşetmek"
+51,requisite,"şart,gerekli"
+52,dispel,"dağıtmak,gidermek,yok etmek"
+53,agitation,kışkırtma
+54,enthusiasm,"heves,cosku,heyecan"
+55,glow,parıltı
+56,tranquilize,sakinleştirmek
+57,prospect,"olasılık,ihtimal,umut"
+58,seafaring,denizcilik
+59,obtain,"edinmek,elde etmek"
+60,resolved,kararlı
+61,inherited,miras
+62,hardship,"zorluk,sıkıntı"
+63,famine,"kıtlık,açlık"
+64,admiration,"hayranlık,takdir,begeni"
+65,dignity,"itibar,haysiyet"
+66,accomplish,"basarıyla tanımlamak,bitirmek,yerine getirmek"
+67,affirmative,"olumlu cevap,olumlu"
+68,ease,"kolaylık,rahatlık"
+69,farewell,"veda,elveda"
+70,affectionate,"sevecen,sevgi dolu"
+71,fortitude,cesaret
+72,sustain,"ayakta tutmak,sürdürmek"
+73,excessive,"haddinden fazla,aşırı"
+74,motionless,haraketsiz
+75,abandon,"terk etmek,bırakmak"
+76,accommodation,"konaklama,kalacak yer"
+77,accompany,"eşlik etmek,refakat etmek"
+78,accomplish,"basarıyla tamamlamak,bitirmek,yerine getirmek"
+79,accountant,muhasebeci
+80,accuse,"suclamak,itham etmek"
+81,aircraft,"ucak,hava tasıtı"
+82,alien,"uzaylı,yaratık"
+83,destination,"varıs yeri,amac"
+84,alter,"değiştirmek,değişmek"
+85,attachment,"bağlılık,sevgi bağı,eklenti,ek"
+86,assumption,"varsayım,üstlenme"
+87,association,"birlik,birleşme,ortaklık"
+88,assessment,değerlendirme
+89,assess,değerlendirmek
+90,ashamed,"mahcup,utanmıs"
+91,arrow,ok
+92,bacteria,bakteri
+93,ballet,bale
+94,bargain,pazarlık
+95,basement,bodrum
+96,brick,tugla
+97,encompassed,"kuşatılmış,etrafı sarılmıs"
+98,vessel,"gemi,tekne,damar"
+99,occupied,"mesgul,dolu"
+100,dauntless,gözüpek
+101,courage,cesaret
+102,possessed,"sahip olunan,cin carpmıs"
+103,absence,yokluk
+104,glowing,"parlak,övgü dolu"
+105,enthusiasm,"heves,cosku"
+106,participate,"katılmak,dahil olmak"
+107,endeavour,çabalamak
+108,dejection,"keyifsizlik,üzüntü"
+109,bitterly,"acı acı,acı olarak"
+110,courageous,"yürekli,cesur"
+111,cultivated,kültürlü
+112,capacious,"ferah,geniş"
+113,amned,"düzeltmek,iyileştirmek"
+114,ardent,"gayretliateşli,düşkün"
+115,impatient,sabırsız
+116,acquainted,"haberdar,tanışmıs,bilgi sahibi"
+117,ceased,ortadan kalkmıs
+118,necessity,"gereklilik,gereksinim"
+119,illiterate,"okuma yazma bilmeyen,cahil"
+120,complaint,şikayet
+121,lieutenant,teğmen
+122,retain,"sürdürmek,aklında tutmak,muhafaza etmek"
+123,disposition,"eğilim,huy"
+124,integrity,"bütünlük,dürüstlük,erdemlilik"
+125,desirous,istekli
+126,solitude,yalnızlık
+127,intense,"yogun,aşırı"
+128,distaste,"beğenmeme,hoslanmama"
+129,brutality,şiddet
+130,obedience,itaat
+131,peculiarly,"alısılmısın dısında,acayip bir sekılde"
+132,fortunate,"sanslı,kısmetli"
+133,amassed,"biirkmiş,yığılmıs"
+134,considerable,hatrı sayılır miktarda
+135,consented,aksi kararlastırılmadıkca
+136,mistress,metres
+137,destined,kaderinde var olan
+138,consent,"onay,rıza"
+139,reassured,"güveni tazelenmiş,yeniden güvende hisseden"
+140,suppliant,yalvaran kimse
+141,pursuit,"kovalama,takip"
+142,bestowed,"bağıslayan,bağıslanmıs"
+143,rival,"rakip,hasım"
+144,inexorable,"önlenemez,merhametsiz,acımasız"
+145,fellow,herif
+146,exclaim,"haykırmak,bağırmak"
+147,wholly,"tamamen,tümüyle"
+148,astonishing,"şaşırtıcı,hayret verici"
+148,detract,"değerini düşürmek,alçaltmak"
+149,conceive,"aklı almak,anlamak,kavramak"
+150,consolation,teselli
+151,resolution,"kararlılık,azim"
+152,fate,kader
+153,permit,"izin,izin vermek,müsaade etmek"
+154,dreadfully,"korkunc bir sekılde,dehsetle,cok cok"
+155,rashly,"hesapsızca,acele ile,paldır küldür,düşünmeden"
+156,prudence,"ihtiyatlılık,sağduyu"
+157,considerateness,saygılılık
+158,pleasurable,"zevkli,zevk veren,hoş"
+159,worn,yıpranmıs
+160,woeful,"üzücü,kederli"
+161,disclose,"ifşa etmek,acıga cıkarmak"
+162,tenderly,kibarca
+163,haste,acele
+164,merchantman,"ticaret gemisi,yük gemisi"
+165,homeward,eve dogru olan
+166,sheet,"kağıt,yaprak,carsaf"
+167,dismay,dehset
+168,latiitude,enlem
+170,gnash,gıcırdama
+171,forbear,"sakınma,tahammül,sabretmek,direnmek"
+172,possession,"mülk,varlık"
+173,compassed,"yuvarlatılmış,yuvarlanmıs,kavisli"
+174,mist,"sis,buğu,buhar"
+175,beheld,
+176,vast,"çok,muazzam,geniş,ucsuz bucaksız"
+177,comrades,"halk mahkemeleri,yurttas mahkemeleri"
+178,groan,"inlemek,inilti,gıcırdamak"
+179,watchful,"dikkatli,tetikte"
+180,diverted,
+181,solicitude,"endişe,kuruntu"
+182,perceived,"algılanan,fark edilen"
+183,sledge,"kızak,balyoz"
+184,drawn,"çekilmiş,bitkin"
+185,stature,itibar
+186,inequalities,eşitsizlikler
+187,unqualified,"vasıfsız,niteliksiz"
+188,apparition,"hayalet,tayf,görüntü"
+189,denote,"anlamına gelmek,göstermek,ifade etmek"
+190,freed,"serbest bıraklılmıs,salınmıs"
+191,fragment,"bölüm,parca"
+192,savage,"vahşi,barbar"
+192,inhabitant,yerleşik halk
+193,perish,"helak olmak,telef olmak"
+194,whither,
+195,bound,baglı
+196,astonishment,"hayret,saskınlık"
+197,brink,
+198,destruction,"tahribat,yıkım"
+199,thus,"böylelikle,böylece"
+200,boundless,"sınırsız,sonsuz"
+201,emaciated,"zayıflatılmıs,cok zayıflamıs"
+202,fatigue,yorgunluk
+203,wretched,"acınası,sefil"
+204,chimney,"baca,yanardağ agzı"
+205,stove,"soba,ocak"
+206,manner,"bicim,tutum,davranıs"
+207,deprived,"mahrum,yoksun,muhtaç"
+208,madness,"çılgınlık,delilik"
+209,trifling,önemsiz
+210,countenance,"çehre,yüz"
+211,beam,
+212,benevolence,"hayırseverlik,yardımseverlik"
+213,equalled,"denklestirilmiş,eşdegerde olmus"
+214,woes,
+215,oppresses,"zulmetmek,sıkıntı vermek"
+216,idle,"avare,aylak,bos durmak,bos gezmek"
+217,tormented,"işkence edilmiş,işkence görmüş"
+218,curiosity,merak
+219,restoration,"restorasyon,geri getirme,yeniden kurma"
+220,evidently,"besbelli,açıkca"
+221,lieutenant,"teğmen,vekil"
+222,seek,"aramak,istemek,peşinde kosmak,cabalamak"
+223,fled,
+224,aroused,tahrik olmus(cinsel yönden)
+225,multitude,kalabalık
+226,demon,şeytan
+227,considerate,"düşünceli,anlayıslı,saygılı"
+228,inquiries,"sorusturma,arastırma"
+229,impertinent,"küstah,terbiyesiz"
+230,inquisitiveness,"meraklılık,cok soru sorma"
+231,rescued,kurtarılmıs
+232,perilous,"tehlikeli,vahim"
+233,benevolently,yardımsever bir şekilde
+234,restored,
+235,eagerness,heves
+236,rawness,
+237,manners,"görgü,ahlak,terbiye"
+238,conciliating,
+239,constant,"sabit,değişmez,daimi,sürekli"
+240,grief,"keder,üzüntü"
+241,wreck,"enkaz,kaza"
+242,amiable,"cana yakın,sevimli"
+244,incidents,vukuat
+245,pity,"acıma,merhamet"
+246,astonishing,"sasırtıcı,hayret edıcı"
+247,poignant,"dokunaklı,üzücü"
+248,eloquence,
+249,preceded,
+250,utterly,"tamamen,düpedüz"
+251,occupied,"mesgul,dolu"
+252,converse,"konusmak,sohbet etmek"
+253,disguise,
+254,attentively,"dikkatlice,dikkatle"
+255,utterance,"söz,ifade,konusma"
+256,ardour,
+257,fervour,"şevk,heves"
+258,furtherance,"ilerletme,ilerlemesini sağlama"
+259,acquirement,
+260,sought,
+261,foes,
+262,acquire,"elde etmek,edinmek"
+263,gloom,kasvet
+264,quivered,
+265,intoxicating,sarhos edici
+266,paroxysm,"ani kriz,ani nöbet"
+267,overcame,
+268,weakened,"zayıflatılmıs,zayıf düşmüş"
+269,repose,"yaslanmak,dinlenme,istirahat"
+270,tranquil,"sakin,huzurlu"
+271,composure,"sakinlik,soğukkanlılık"
+272,conquered,"fethedilen,fethedilmiş"
+273,quelling,güç kullanarak engelleme
+274,tyranny,"zorbalık,zulüm"
+275,despair,"çaresizlik,umutsuzluk"
+276,awakened,uyanmıs
+277,intimate,"samimi,yakın"
+278,conviction,
+279,wiser,akıllı
+280,perfectionate,mükemmelleştirmek
+281,celestial,"gök,göksel,gökyüzü ile ilgili"
+282,halo,
+283,enthusiasm,"heves,coşku"
+284,tutored,
+285,refined,"kibar,zarif"
+286,fastidious,titiz
+287,extraordinary,"olağandısı,olağanüstü"
+288,merits,
+289,immeasurably,ölcülemez
+290,intuitive,"sezgili,sezgisel"
+291,discernment,
+292,penetration,
+292,unequalled,"eşsiz,benzersiz"
+293,align,"hizalamak,uyum sağlamak"
+294,alignment,"uyum,uyumlastırma,hiza"
+295,launderette,çamaşırhane
+296,implementation,uygulama
+297,initialization,"başlatma,başlatmaya hazırlık"
+298,milestone,"kilometre taşı,dönüm noktası"
+299,prone,meyilli
+300,configure,"ayarlamak,yapılandırmak"
+301,corresponding,"uygun,karsılık gelen,tekabul eden"
+302,slug,sümüklü böcek
+303,disguised,"gizlenmiş,kılık değiştirilmiş"
+304,disregard,"hiçe sayma,saygısızlık,dikkate almamak"
+305,denote,"anlamına gelmek,göstermek"
+306,instantiating,savunulan savı örnek vererek desteklemek
+307,instantiate,savunulan savı örnek vererek desteklemek
+308,inheritance,miras
+309,identical,"aynı,eş,benzer"
+310,mandatory,"zorunlu,mecburi"
+311,assert,"ileri sürmek,iddia etmek,ortaya koymak"
+312,significant,"dikkate değer,kayda değer"
+313,philosophy,felsefe
+314,sole,"yegane,tek"
+316,gracefully,"incelikle,zarif bir sekilde"
+317,integral,"ayrılmaz,bütün şey,tam şey"
+318,homogeneous,homojen
+319,pattern,"model,desen"
+320,trail,"iz,patika,yol"
+321,intricate,"karmasık,carpasık"
+322,steer,"yönlendirmek,yol göstermek"
+323,acquire,"elde etmek,edinmek,yakalamak,almak"
+324,glance,"göz atmak,bakıs,bakmak"
+325,convenient,"müsait,uygun,elverişli,rahat"
+326,wheel,"çark,tekerlek,direksiyon,dümen"
+327,sand,"kum,kumsal"
+328,compatible,uyumlu
+329,triangle,üçgen
+330,pentagon,beşgen
+331,hexagon,altıgen
+332,heptagon,yedigen
+333,octagon,sekizgen
+334,nonagon,dokuzgen
+335,decagon,ongen
+336,equation,"denklem,denge"
+337,sculpture,heykel
+338,indication,"belirti,işaret,gösterge"
+339,willingly,"kendi isteğiyle,seve seve"
+340,courtesy,"kibarlık,nezaket"
+341,funky,"korkak,ağır kokulu,hoş olmayan,kötü koku"
+342,circle,"daire,halka,cember"
+343,radius,yarıcap
+344,contemporary,"çağdas,akran"
+345,properties,özellikler
+346,tweaking,"büküvermek,çimdiklemek,makas alma"
+347,consistent,"istikrarlı,tutarlı,sürekli"
+348,bind,"birleştirmek,bağlamak"
+349,pop-up,birdenbire ortaya cıkmak
+350,graph,"grafik,çizelge"
+351,precise,"kesin,acık,dogru,tam"
+352,prematurely,erken
+353,creep,sürünmek
+354,ide,tegrated development environment
+355,presume,"farz etmek,tahmin etmek"
+356,encompassing,kusatma
+357,improvisation,doğaclama
+358,canvas,tuval
+359,therapeutic,iyileştirici
+360,cheat,"hile,kopya cekmek,aldatmak"
+361,stripe,çizgi
+362,ensure,"sağlamak,emin olmak"
+363,commit,"işlemek,yapmak"
+364,consulting,"danısman,danısmanlık"
+365,competencie,
+366,specialization,"uzmanlasma,uzmanlık"
+367,dedication,"adama,ithaf"
+368,prior,"önceden,öncelikli"
+369,establish,kurmak
+370,imply,ima etmek
+371,initial,
+372,interpret,"yorumlamak,tercume etmek"
+373,modify,"değişiklik yapmak,değiştirmek"
+374,persist,"ısrar etmek,sürmek,sürdürmek"
+375,evident,"belli,aşikar,açık"
+376,considerable,hatrı sayılır miktar
+377,justify,hak vermek
+378,observe,"gözlemlemek,gözlem yapmak"
+379,embark,"girişmek,atılmak"
+380,debit card,banka kartı
+381,installment,taksit
+382,purchase,"satın alma,alım"
+383,lightning,"yıldırım,şimsek"
+384,tornado,"hortum,kasırga"
+385,drought,"kuraklık,kıtlık"
+386,flood,"sel,su baskını"
+387,forecast,"tahmin,tahmin etmek"
+388,rainbow,gökkuşağı
+389,stack,"yığın,yığmak"
+390,pile,"yığın,yığılmak"
+391,auxiliary,"yardımcı,yedek"
+392,hotly,"kıyasıya,canla basla"
+393,enthusiast,"hayran,tutkun,istekli kimse"
+394,collision,"carpısma,catısma"
+395,mind-bending,akılalmaz
+396,scurrying,"hızla kacma,acele etme"
+397,caterpillar,tırtıl
+398,composed,"oluşan,düzenlenmiş"
+399,leaf,"yaprak,sayfa"
+400,refactoring,içeriğinde herhangi bir değişiklik yapmadan bir programın iç yapısını yeniden düzenleyerek iyileştirme
+401,straightforward,"acık,basit,anlasılır,kolay"
+402,blueprint,"proje,plan,şablon"
+403,knead,yoğurmak
+404,proficient,"usta,yeterli,becerikli,uzman"
+405,commit,"işlemek,yapmak"
+406,commercial,"ticari,reklam"
+407,config,yapılandırma
+408,untrack,"takip etmeyi bırakma,izlemeyi bırakma"
+409,comprehensive,kapsamlı
+410,snapshot,"anlık,şipsak fotograf,genel görüntü"
+411,restore,"onarım,geri getirmek,yeniden kurmak"
+412,recover,"kurtarmak,iyilestirmek,telafi etmek"
+413,rebase,yeniden temel olusturmak
+414,conflict,"anlasmazlık,cekişme,catısma"
+415,resolve,"kararlılık,azim"
+416,chart,"çizelge,şema"
+417,Prerequisites,ön kosullar
+418,branch,"şube,dal,branş"
+419,fatal,"ölümcül,kritik"
+420,vulnerability,"kırılganlık,zaafiyet,savunmasızlık"
+421,insight,"anlayıs,kavrayıs,sezgi"
+422,configure,yapılandırmak
+423,release,"tahliye,serbest bırakma,piyasaya sürme"
+424,facilitating,"kolaylastırıcı,kolaylastıran"
+425,Lightweight,"hafif,yeteneksiz önemsiz kimse"
+426,inner,"iç,içsel,manevi"
+427,bratty,yaramaz
+428,comparison,karsılastırma
+429,server,sunucu
+430,serve,"hizmet etmek,sunmak,servis"
+431,batch,"toplu iş,yığın"
+432,transmitter,"aktarıcı,verici,iletici"
+433,switch,"anahtar,şalter,değiştirmek,düğme"
+434,mesh,"örgü,ag,karmasa"
+435,partitioning,"bölme,bölümlere ayırma"
+436,allocation,"tahsis,tahsisat"
+437,Legacy,miras
+438,Compatibility,"uygunluk,uyum"
+439,cluster,"küme,grup"
+440,wildcard,"özel sembol,joker"
+441,directory,"rehber,dizin"
+442,troubleshooting,"çözüm bulma,sorunları çözme"
+443,administrative,"idari,yönetimle ilgili"
+444,gateway,"kapı,geçit"
+445,foreground,"ön plan,ön taraf"
+446,dictate,"dikte etmek,emir vermek"
+447,interoperability,birlikte calısılabilirlik
+448,Component,"unsur,bileşen"
+449,ınterconnection,ara bağlantı
+450,session,"oturum,seans,toplantı"
+451,scalable,ölçeklenebilir
+452,manner,"tutum,biçim,tavır"
+453,layout,"düzen,plan"
+454,subconscious,bilinçaltı
+455,deploy,"uyuglamak,görevlendirmek"
+456,miscellaneous,"çeşitli,farklı türlerde"
+457,Interoperability,birlikte çalışılabilirlik
+458,Unified,"birleştirilmiş,birleşmiş"
+459,privilege,"ayrıcalık,dokunulmazlık"
+460,transparent,"saydam,şeffaf"
+461,Portable,"portatif,taşınabilir"
+462,Lossless,dijital dosyaları veri kaybı olmaksızın sıkıştırma formatına ait veya ilişkin
+463,Compression,"özetleme,kısaltma"
+464,depth,"derinlik,enginlik"
+465,overlay,kaplamak
+466,constraints,kısıtlar
+467,entity,"varlık,oluşum,kurulus"
+468,inconvenience,"sıkıntı,aksaklık"
+469,transaction,"işlem,ticari faaliyet"
+470,durability,Dayanıklılık
+471,domain,alan
+472,inconsistence,"tutarsızlık,uyumsuzluk"
+473,simultaneous,eş zamanlı
+474,alter,değiştirmek
+475,flagship,"amiral gemisi,en iyisi"
+476,infrastructure,altyapı
+477,straightforward,"açık,basit,kolay,anlaşılır"
+478,displacement,yer değiştirme
+479,recall,"hatırlatmak,anımsatmak"
+480,mass,kütle
+481,impulse,dürtü
+482,Collisions,çarpışma
+483,elastic,esnek
+484,conserve,"korumak,muhafaza etmek"
+485,Comprehensive,kapsamlı
+486,magnitude,"büyüklük,boyut"
+487,Conceptual,kavramsal
+488,stationary,"sabit,duran"
+489,frictionless,sürtünmesiz
+490,cart,araba gibi tasıma görevi gören sey
+491,equations,denklemler
+492,Dimensional,boyutlu
+493,dimension,boyut
+494,proportional,orantılı
+495,equilibrium,denge
+496,back-and-forth,bir ileri bir geri
+497,Amplitude,genlik
+498,oscillation,salınım
+499,inverse,"ters,zıt şey"
+500,acceleration,ivme
+501,Pendulum,sarkaç
+502,exert,"uygulamak,cabalamak,kullanmak"
+503,spring,"ilkbahar,yay"
+504,interplay,karsılıklı etkileşim
+505,amplitude,"genlik,genişlik"
+506,derive,"almak,elde etmek"
+507,cosine,kosinüs
+508,angular,"açısal,açılı"
+509,digestible,"kolay sindirilebilir,sindirimi kolay"
+510,overemphasizing,"üzerinde çok durma,çok önemseme"
+511,Diagnose,"tanı koyma,teşhis etme"
+512,fluctuating,"dalgalanan,kararsız"
+513,latency,gecikme
+514,Relocate,"yerini değiştirmek,konumunu değiştirmek"
+515,interference,"karısma,müdahale"
+516,Bandwidth,bant genişliği
+517,Reconfigure,yeniden yapılandırmak
+518,Firmware,aygıt yazılımı
+519,persists,"ısrar etmek,devam etmek,sürdürmek"
+520,simultaneously,eş zamanlı olarak
+521,essence,"öz,temel,asıl"
+522,Benevolent,"iyi niyetli,yardımsever"
+523,Eloquent,"etkili konusan,duruslu"
+524,persuasive,"ikna edici,inandırıcı"
+525,Meticulous,"titiz,özenli"
+526,Resilient,"direncli,dayanıklı"
+527,Plausible,"mantıklı,olası"
+528,Candid,"açık sözlü,samimi"
+529,Inevitable,kacınılmaz
+530,Superficial,yüzeysel
+531,Innovative,yenilikçi
+532,caterpillar,tırtıl
+533,Metamorphosis,"değişim,başka şekle girme"
+534,unware,"habersiz,farkında değil,farkında olmayan"
+535,Oblivious,"farkında olmayan,dalgın"
+536,Ubiquitous,"her yerde bulunan,yaygın"
+537,cumbersome,"ağır,hantal"
+538,Content,"memnun,hoşnut,içerik"
+539,habit,"huy,alışkanlık"
+540,abundant,"bol,cok"
+541,Comprehend,"anlamak,kavramak"
+542,Imminent,"yakın,gelmekte olan"
+543,Significant,"önemli,manidar"
+544,subsequent,"sonraki,takip eden"
+545,Vibrant,"canlı,renkli"
+546,postone,ertelemek
+547,clarification,"acıklıga kavusturmak,aydınlatma"
+548,vacancy,"boş yer,boşluk"
+549,synopsis,özet
+550,hook,"kanca,çengel,askı"
+551,insertion,"ekleme,yerleştirme"
+552,deletion,"silme,çıkarma"
+553,feat,"başarı,ustalık"
+554,conflict,"anlaşmazlık,çelişki"
+555,workflow,iş akışı
+556,stash,"saklamak,depolamak"
+557,substitutions,
+558,enhance,"arttırmak,geliştirmek,iyileştirmek"
+559,proficiency,"yeterlilik,yetkinlik"
+560,venomous,zehirli
+561,hub,merkez
+562,vulnerability,"kırılganlık,zaafiyet"
+563,infrastructure,altyapı
+564,nonlinear,dogrusal olmayan
+565,algebra,cebir
+566,hesitate,"duraksamak,tereddüt etmek"
+567,curve,"eğri,kıvrım"
+568,accumulation,"birikim,birikinti"
+569,bound,sınır
+570,slide,slayt
+571,summation,toplama
+572,congestion,"sıkşıklık,tıkanıklık"
+573,Collisions,çarpışma
+574,intercept,"yakalamak,engellemek,durdurmak"
+575,Scalability,ölçeklenilirlik
+576,node,düğüm
+577,backbone,"belkemiği,omurga"
+578,landline,sabit hat
+579,tap,musluk
+580,bulk,"büyük kısım,cogunluk,cüsse,büyüklük"
+581,vast,"uçsuz bucaksız,çok,engin"
+582,degradation,bozulma
+583,robust,"güçlü,sağlam,etkili"
+584,primarily,"öncelikle,esasen"
+585,raw,"çiğ,ham,soğuk,deneyimsiz"
+586,expansion,genişletme
+587,leaf,"yaprak,sayfa"
+588,contiguous,bitişik
+589,Aggregate,"küçültmek,azaltmak"
+590,vital,"yaşamsal,çok önemli"
+591,Discrete,"ayrı,ayrık"
+592,equip,donatmak
+593,groundwork,"zemin,temel"
+594,interpret,"yorumlamak,tercumanlık yapmak"
+595,extensively,yaygın olarak
+597,consumption,tüketim
+598,propagation,yayılma
+599,underlying,"altında yatan,altındaki"
+600,retirement,emeklilik
+601,outline,"taslak,ana hatlar,çerceve"
+602,agile,"çevik,kıvrak,becerikli"
+603,concise,"özlü,kısa"
+604,intersection,"kavşak,kesişim"
+605,credentials,"kimlik,kimlik bilgileri,referans"
+606,dashboard,"gösterge tablosu,gösterge paneli"
+607,preference,tercih
+608,dual,"ikili,çifte"
+609,Convenience,"kolaylık,uygunluk"
+610,firmware,"aygıt yazılımı,ürün yazılımı"
+611,Legacy,miras
+612,manufacturer,"imalatcı,üretici"
+613,variety,"çeşit,tür"
+614,significantly,"önemli,önemli ölçüde,anlamlı bir şekilde"
+615,toggle,"bir şeyi değiştirmek için düğme,değiştir,tıkla"
+616,registry,"kayıt olmak,sicil"
+617,neural,nöral
+618,collapse,"çökmek,yığılmak,yıkılmak"
+619,cheat,"hile,kopya cekmek,aldatmak"
+621,expansion,"genişleme,genişletme"
+622,demand,"talep,talep etmek"
+623,intense,"yoğun,aşırı"
+624,stakeholders,"hissedarlar,paydaşlar"
+625,Unified,"birleştirilimiş,birleşmiş"
+626,retention,"muhafaza,akılda tutma"
+627,reinforce,"pekiştirmek,takviye yapmak"
+628,auxiliary,"yardımcı,yedek"
+629,deepfake,"yapay zeka kullanarak üretilen, birini taklit edildiği video"
+630,diffusion,"yayılma,dağıtım"
+631,apparently,"görünüşe bakılırsa,belli ki,görünüşte"
+632,complaint,"şikayet,rahatsızlık"
+633,impeccable,"hatasız,kusursuz"
+634,flashcard,bilgi kartı
+635,clip,kırpmak
+636,dissatisfied,"tatminsiz,memnuniyetsiz,hoşnutsuz"
+637,alike,birbirine benzeyen
+638,tacky,"yapış yapış,derme çatma,yırtık pırtık"
+639,estimate,"tahmin etmek,tahmin"
+640,anticipate,"beklemek,ummak,sezmek,tahmin etmek"
+641,conveniently,"rahatlıkla,kolay erişilebilir bir yerde"
+642,rug,"kilim,halı"
+643,fulfill,"yerine getirmek,gidermek,karşılamak"
+644,latitude,"enlem,genişlik"
+645,cozy,"sıcacık,samimi,rahat"
+646,yield,"getiri,verim,kazanç sağlamak"
+647,desperate,"çaresiz,umutsuz,ümitsiz"
+648,pipe dream,boş hayal
+649,blueprint,"proje,plan,şablon,yol haritası"
+650,Retention,"muhafaza,akılda tutma"
+651,serene,"sakin,berrak,huzurlu"
+652,intricate,karmaşık
+653,persistent,"ısrarlı,ısrarcı,inatcı"
+654,Spontaneous,"kendiliğinden olan,doğal,spontane"
+655,impulsive,"düşüncesiz,dürtüsel,fevri"
+656,Resilient,"dirençli,dayanıklı,sağlam"
+657,harsh,"haşin,sert,acımasız,ağır,şiddetli"
+658,Obsolete,"eski,modası geçmiş"
+659,Frugal,"tutumlu,idareli"
+660,Benevolent,"iyiliksever,hayırsever,yardımsever"
+661,Diligent,"gayretli,çalışkan"
+662,differ,"farklı olmak,değişiklik göstermek"
+663,Interconnection,ara bağlantı
+664,drawback,"eksiklik,dezavantaj"
+665,leverage,"avantaj,güçlendirmek"
+666,spot-on,"nokta atışı,tam,kesin"
+667,robust,"güçlü,sağlam,dayanıklı"
+668,insulation,yalıtım
+669,latency,"gecikme,gecikme süresi"
+670,concise,"özlü,kısa"
+671,alter,"değişiklik yapmak,değiştirmek"
+672,privileges,ayrıcalıklar
+673,grant,"hibe,bağış"
+647,revoke,"geri almak,iptal etmek"
+648,designate,"belirlemek,tanımlamak"
+649,specialization,uzmanlık
+650,enthusiasm,"heves,coşku,heyecan,şevk"
+651,consumption,tüketim
+652,subnet,alt ağ
+653,subnetting,alt ağlara bölme
+654,router,yönlendirici
+655,genuinely,gerçekten
+656,cardigan,hırka
+657,sample,"örnek,numune,göstermelik"
+658,repetition,"tekrar,tekrarlama"
+659,hassle,"güçlük,zorluk,münakasa"
+660,attain,"elde etmek,erişmek,kavusmak"
+661,flaw,"kusur,hata,eksiklik"
+662,retrieve,"geri almak,kurtarmak,geri getirmek"
+663,relative,"akraba,yakın,görece"
+664,convenient,"müsait,uygun,elverişli"
+665,burden,"yük,sorumluluk"
+666,origin,"köken,asıl,kaynak"
+668,acquired,"elde edilmiş,kazanılmış"
+669,overlap,"örtüşmek,örtüşme,çakışma"
+671,convoluted,"bükümlü,dolambaçlı,karmakarışık"
+672,neat,"düzenli,düzgün"
+673,constant,"sabit,değişmez,daimi"
+674,premature,"zamanından önce doğmuş,erken"
+675,flawless,"kusursuz,mükemmel"
+676,nuance,"ince fark,ayrıntı"
+677,subtle,"kurnaz,ince,hoş,hafif"
+678,idiomatic,deyimsel
+679,resolutıon,"kararlılık,azim"
+680,draft,"tasarı,taslak"
+681,overstated,"abartılmış,üzerine fazla durulmuş"
+682,concentration,"toplama,yoğunlaşma,konsantrasyon"
+683,assessment,değerlendirme
+684,gauge,ölçü
+685,arise,"doğmak,yükselmek"
+686,minor,"reşit olmayan kişi,ufak,küçük"
+687,refinement,"rafine etmek,incelik,arıtma"
+688,infer,sonuç çıkarmak
+690,align,"aynı hizaya getirmek,hizalamak"
+691,hesitate,"duraksamak,tereddüt etmek"
+692,vibrant,"enerjik,canlı,hareketli"
+693,tabular,tablo şeklinde
+694,delimiter,sınırlayıcı
+695,plain-text,"açık metin,düz metin,normal metin"
+696,faff,"boşa vakit harcamak,boş iş,saçma ve vakit kaybettiren şey"
+697,cheat sheets,kopya kağıtları
+698,glimpse,"kısa bakış,göz atma"
+699,boilerplate,"standart metin,basmakalıp"
+700,giant,"dev,kocaman,çok büyük"
+701,sovereign,"hükümdar,egemen"
+702,render,"hale getirmek,kılmak"
+703,intuitive,sezgisel
+704,typo,yazım hatası
+705,clipboard,"not panosu,pano"
+706,quote,alıntı yapmak
+707,compressed,sıkıştırılmış
+708,distinguish,"ayırt etmek,seçmek"
+709,void,"geçersiz,hükümsüz"
+710,Cinnamon,tarçın
+711,yeast,maya
+712,yolk,yumurta sarısı
+713,knead,yoğurmak
+714,cumbersome,"hantal,ağır"
+715,margin,"marj,kenar boşluğu"
+716,padding,"dolgu malzemesi,abartma,dolgu"
+717,hover,"üstünde uçmak,havada durmak,bekleyip durmak"
+718,descendant,"torun,soyundan gelen"
+719,ancestor,"ata,ilk örnek"
+720,renovation,"yenileme,tadilat"
+721,retention,"muhafaza,akılda tutma"
+722,neat,"düzgün,zarif,temiz"
+724,allocated,"tahsis edilmiş,ayrılmış"
+725,niche,"mevki,uygun yer"
+726,outermost,"en dışdaki,en uzak"
+727,cheat,"hile,kopya cekmek,aldatmak"
+728,overnight,"bir gecelik,gece olan"
+729,span,"süre,uzunluk"
+730,footer,"Altbaşlık,altbilgi,sayfa altlıgı"
+731,Spam,"istenmeyen mesaj gönderme,istenmeyen e posta"
+732,fraction,Kesir
+733,ratio,oran
+734,gist,"ana fikir,öz"
+735,proportionally,orantılı olarak
+736,procrastination,erteleme
+737,snack,"aparetif,ara öğün"
+738,convey,"iletmek,götürmek"
+739,carpet,"halı,örtü,kaplamak"
+740,precedence,"öncelik,üstünlük"
+741,concern,"endişe,kaygı"
+742,declaration,"beyanname,beyan,ifade"
+743,saturation,"doygunluk,renk yoğunlugu"
+744,hue,renk tonu
+745,Estimated,"tahmin edilmiş,tahmini"
+746,assess,"değerlendirmek,değer biçmek"
+747,gauge,"ölçü,ölçmek"
+748,aspirations,"arzu,istek,heves"
+749,awareness,"farkındalık,farkında olma"
+750,seek,"aramak,istemek,peşinde koşmak"
+751,vast,"çok,muazzam,geniş"
+752,premise,"öncül,önerme,ön kabul"
